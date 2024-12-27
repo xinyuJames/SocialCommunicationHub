@@ -3,8 +3,6 @@
 ## Instructions on how to run the project ##
 In order to run the project, make sure to run the ChatServer first and then the Client. It will then prompt you to log in or create a new account, to which you would have to create a new account. From there, you can either message, view friends, view blocks, go public, or exit the app. To add a friend, create another user and click on view friends. From there you can see all users and are now able to friend them. If you click on direct messages, you can only message people who you are friends with, unless you click on the Go Public button in the options screen. When you enter the chat room, you can type anything and press the send button. The other person has to click on the refresh button to see it. Also, if you want to delete a message, type /d[message] into the chat, and it'll delete the message as long as you're the one who sent it. You can also block users, which also removes them from your friend list. They are also not able to add you as a friend back until you unblock them.
 
-## Submissions ##
-Both the recording and the code files were submitted by Elliott. The report should be submitted by Aiyan, if not then by Elliott.
 ## Classes ##
 
 ### ChatServer.java ###
